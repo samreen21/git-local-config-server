@@ -1,1 +1,1 @@
-# microservices-local-repo
+# config-local-repo
